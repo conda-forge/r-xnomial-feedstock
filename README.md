@@ -14,14 +14,16 @@ Summary: Tests whether a set of counts fit a given expected ratio. For example, 
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/r-xnomial-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/r-xnomial-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/r-xnomial-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/r-xnomial-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/r-xnomial-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/r-xnomial-feedstock/branch/master)
+[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-xnomial-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-xnomial-feedstock)
+[![OSX](https://img.shields.io/travis/conda-forge/r-xnomial-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-xnomial-feedstock)
+[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-xnomial-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-xnomial-feedstock/branch/master)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/r-xnomial/badges/version.svg)](https://anaconda.org/conda-forge/r-xnomial)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/r-xnomial/badges/downloads.svg)](https://anaconda.org/conda-forge/r-xnomial)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-r--xnomial-green.svg)](https://anaconda.org/conda-forge/r-xnomial) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/r-xnomial.svg)](https://anaconda.org/conda-forge/r-xnomial) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/r-xnomial.svg)](https://anaconda.org/conda-forge/r-xnomial) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/r-xnomial.svg)](https://anaconda.org/conda-forge/r-xnomial) |
 
 Installing r-xnomial
 ====================
